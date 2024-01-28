@@ -46,10 +46,6 @@ The script makes an HTTP GET request to crt.sh with the specified domain. It the
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is open-source and is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Note**: This script is provided "as is", with no warranty of any kind. Use at your own risk.
